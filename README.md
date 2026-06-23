@@ -8,7 +8,7 @@ Policy and governance,
 Conflict Mediation, 
 Regional Security trends.
 ## Author
-Maryam
+Abdullahi Maryam
 ## Current Focus Areas
 ECOWAS, 
 Sahel Security, 
