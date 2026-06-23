@@ -10,8 +10,8 @@ Regional Security trends.
 ## Author
 Maryam
 ## Current Focus Areas
-ECOWAS
-Sahel Security
-Maritime Security
-Conflict Prevention 
-Intelligence studies
+ECOWAS, 
+Sahel Security, 
+Maritime Security, 
+Conflict Prevention,  
+Intelligence studies.
