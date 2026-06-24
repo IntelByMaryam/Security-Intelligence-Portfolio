@@ -1,12 +1,12 @@
 # Security-Intelligence-Portfolio
 Welcome to my research portfolio.
 This repository contains information on my independent analysis and reporting on:
+West African conflict dynamics, 
 Security Issues in Nigeria, 
-West African conflict dynamics,  
 Intelligence analysis, 
-Policy and governance, 
+Regional Security trends, 
 Conflict Mediation, 
-Regional Security trends.
+Policy and governance.
 ## Author
 Abdullahi Maryam
 ## Current Focus Areas
