@@ -5,7 +5,7 @@ West African conflict dynamics,
 Security Issues in Nigeria, 
 Intelligence analysis, 
 Regional Security trends, 
-Conflict Mediation 
+Conflict Mediation, 
 and Policy and governance.
 ## Author
 Abdullahi Maryam
