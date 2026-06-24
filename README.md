@@ -1,6 +1,6 @@
 # Security-Intelligence-Portfolio
 Welcome to my research portfolio.
-This repository contains information of my independent research, analysis and reporting on:
+This repository contains information on my independent research, analysis and reporting on:
 West African conflict dynamics, 
 Security issues in Nigeria, 
 Intelligence analysis, 
