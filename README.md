@@ -5,13 +5,13 @@ West African conflict dynamics,
 Security Issues in Nigeria, 
 Intelligence analysis, 
 Regional Security trends, 
-Conflict Mediation, 
-Policy and governance.
+Conflict Mediation 
+and Policy and governance.
 ## Author
 Abdullahi Maryam
 ## Current Focus Areas
 ECOWAS, 
 Sahel Security, 
 Maritime Security, 
-Conflict Prevention,  
-Intelligence studies.
+Conflict Prevention 
+and Intelligence studies.
