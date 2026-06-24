@@ -11,7 +11,7 @@ and Policy and Governance.
 Abdullahi Maryam
 ## Current Focus Areas
 ECOWAS, 
-Sahel security, 
+Sahel Security, 
 Maritime Security, 
-Conflict prevention 
-and Intelligence studies.
+Conflict Prevention 
+and Intelligence Studies.
