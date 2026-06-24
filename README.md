@@ -2,16 +2,16 @@
 Welcome to my research portfolio.
 This repository contains information of my independent research, analysis and reporting on:
 West African conflict dynamics, 
-Security Issues in Nigeria, 
+Security issues in Nigeria, 
 Intelligence analysis, 
-Regional Security trends, 
+Regional security trends, 
 Conflict Mediation, 
 and Policy and governance.
 ## Author
 Abdullahi Maryam
 ## Current Focus Areas
 ECOWAS, 
-Sahel Security, 
+Sahel security, 
 Maritime Security, 
-Conflict Prevention 
+Conflict prevention 
 and Intelligence studies.
