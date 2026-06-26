@@ -112,13 +112,20 @@ Sahel within the framework of collective regional governance.
 ## Outlook
 ## Sources
 UN Security Council, Situation in Mali: Report of the Secretary-General,
-29 September 2020. 
-ISS Africa, 31 May 2021. 
-Africa Center for Strategic Studies, 28 October 2022. 
-Al Jazeera, 28 July 2023. 
-ISS Africa; BBC Africa, 25 January 2025. 
+29 September 2020.
+
+ISS Africa, 31 May 2021.
+
+Africa Center for Strategic Studies, 28 October 2022.
+
+Al Jazeera, 28 July 2023.
+
+ISS Africa; BBC Africa, 25 January 2025.
+
 ISS Africa; Al Jazeera Centre for Studies, The Sahel's Shifting Sands,
-March 2025. 
+March 2025.
+
 UN Security Council, Letter from the Permanent Representative of Mali
-to the President of the Security Council. 
+to the President of the Security Council.
+
 Source: BBC Africa, 25 January 2025. 
