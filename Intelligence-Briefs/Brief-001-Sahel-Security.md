@@ -1,4 +1,4 @@
-# Breif 001: Security Implications of Military Governments in the Sahel
+# Brief 001: Security Implications of Military Governments in the Sahel
 ## Executive Summary
 ## Background
 ### MALI
