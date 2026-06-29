@@ -3,18 +3,13 @@
 ## Background
 ### MALI
 
-The situation in Mali deteriorated significantly amid widespread protests following the
-legislative elections of 29 March and 19 April 2020, culminating in a coup d'état on
-18 August 2020. The protests were triggered by the decision of the Constitutional Court
-on 30 April to overturn the preliminary results of the legislative elections for 31 of
-the 147 seats, mostly in favour of candidates of the ruling coalition.
+The situation in Mali deteriorated significantly amid widespread protests following the legislative elections of 29 March and 19 April 2020. The protests were triggered by the decision of the Constitutional Court on 30 April to overturn the preliminary results of the legislative elections for 31 of the 147 seats, mostly in favour of candidates of the ruling coalition. Culminating in a coup d'état on 18 August 2020.
 
 On the morning of 18 August, a group of soldiers and army officers led a mutiny where the President Ibrahim Boubacar Keïta, 
 the Prime Minister, and other high-ranking government and military officials were detained. 
 Around midnight, in a broadcast on national television, the President announced his resignation 
-and the dissolution of the government and National Assembly. Early on 19 August, the officers
-announced they had designated themselves the National Committee for the Safeguard of the
-People "Comité National pour le Salut du Peuple" (CNSP) with Colonel Assimi Goïta,
+and the dissolution of the government and National Assembly. Early on 19 August, the army officers
+designated themselves the National Committee for the Safeguard of the People "Comité National pour le Salut du Peuple" (CNSP) with Colonel Assimi Goïta,
 commander of a special forces battalion based in central Mali, as President. The group
 stated its actions were motivated by the need to fight corruption, bad governance, and to
 end instability in central and northern Mali.
@@ -128,4 +123,4 @@ March 2025.
 UN Security Council, Letter from the Permanent Representative of Mali
 to the President of the Security Council.
 
-Source: BBC Africa, 25 January 2025. 
+BBC Africa, 25 January 2025. 
