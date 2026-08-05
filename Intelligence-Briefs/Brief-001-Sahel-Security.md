@@ -3,24 +3,15 @@
 ## Background
 ### MALI
 
-The situation in Mali deteriorated significantly amid widespread protests following the legislative elections of 29 March and 19 April 2020. The protests were triggered by the decision of the Constitutional Court on 30 April to overturn the preliminary results of the legislative elections for 31 of the 147 seats, mostly in favour of candidates of the ruling coalition. Culminating in a coup d'état on 18 August 2020.
-
-On the morning of 18 August, a group of soldiers and army officers led a mutiny where the President Ibrahim Boubacar Keïta, 
-the Prime Minister, and other high-ranking government and military officials were detained. 
-Around midnight, in a broadcast on national television, the President announced his resignation 
-and the dissolution of the government and National Assembly. Early on 19 August, the army officers
-designated themselves the National Committee for the Safeguard of the People "Comité National pour le Salut du Peuple" (CNSP) with Colonel Assimi Goïta,
-commander of a special forces battalion based in central Mali, as President. The group
-stated its actions were motivated by the need to fight corruption, bad governance, and to
-end instability in central and northern Mali.
-
-In November 2020, in a bid to present a civilian transition to the international
-community, a transitional president, Bah N'Daw, and Prime Minister, Moctar Ouane, were
-installed. Nine months later, on 24 May 2021, military officers arrested N'Daw and Ouane
-on the orders of Assimi Goïta, who was serving as Vice President and head of the Junta.
-N'Daw and Ouane's cabinet had removed two former Junta members from the Ministries of
-Defence and Security, replacing them with officers unaffiliated with Goïta, without his
-approval, a direct challenge to Junta authority that Goïta moved swiftly to reverse.
+The situation in Mali deteriorated significantly amid Widespread protests following disputed legislative elections 
+which was conducted from 29 March-19 April 2020, escalated when the Constitutional Court overturned results for 
+31 of 147 seats on 30 April, mostly favoring the ruling coalition. On 18 August, soldiers led by Colonel Assimi Goïta, 
+commander of a special forces battalion, detained President Ibrahim Boubacar Keïta, the Prime Minister, and other 
+government officials. Keïta resigned that night, and the military established the National Committee for the Safeguard 
+the People (CNSP) with Goïta as President, citing corruption, bad governance, and regional instability as justification.
+To gain international legitimacy, a civilian transitional president Bah N'Daw and Prime Minister Moctar Ouane were 
+installed in November 2020. Nine months later, on 24 May 2021, Goïta then serving as both Vice President and junta head 
+arrested N'Daw and Ouane after they removed junta-affiliated officers without "council" from him. Making himself the President again.
 
 ### BURKINA FASO
 
@@ -30,7 +21,7 @@ failure to contain the jihadist insurgency as justification for the takeover. Be
 transitional government could be consolidated, Captain Ibrahim Traoré, head of an
 artillery unit of the Armed Forces, declared himself head of state on 30 September 2022,
 citing the same grounds, Burkina Faso's deteriorating security situation. Traoré's
-Junta hastily organised a two-day national forum on 14 and 15 October, with Junta
+Junta hastily organized a two-day national forum on 14 and 15 October, with Junta
 representatives dominating the proceedings, at which he was designated transitional
 president. The junta retained significant authority under the transitional governing
 charter.
@@ -45,7 +36,6 @@ la Sauvegarde de la Patrie" (CNSP). Tchiani justified his actions as necessary t
 the inevitable demise of the country, accusing Bazoum of projecting a false sense of
 security while the "harsh reality is a pile of dead, displaced, humiliation and
 frustration."
-
 
 Each Junta leader attributed their seizure of power to insecurity, bad governance, and
 the failure of civilian governments to mount an effective response to the jihadist threat.
@@ -104,6 +94,52 @@ regional integration, marking the end of a decade-long diplomatic effort to hold
 Sahel within the framework of collective regional governance.
 
 ## Key Risks
+
+The AES withdrawal from ECOWAS in January 2025 formalized a critical rupture in West African regional governance. By 
+rejecting Western security frameworks and external pressure, the three states created a vacuum in the Sahel at a moment 
+when jihadist groups were consolidating control. This realignment has fragmented counterterrorism capacity, degraded 
+intelligence sharing and removed the most capable external surveillance and strike assets from the region. The security 
+environment that follows is characterized by operational gaps and an emboldened jihadist threat.
+
+## IMMEDIATE RISKS (0–6 months)
+
+### Jihadist Corridor Expansion into Nigeria's Border Zone
+
+The withdrawal of AES states from Western-backed
+counterterrorism frameworks have directly enabled JNIM and the Islamic State
+Sahel Province (ISSP) to expand southward into Nigeria's northwestern states,
+establishing the first operational jihadist corridor linking the Sahelian
+conflict theatre to Nigerian territory.
+
+Between 2024 and 2025, violent attacks linked to JNIM and ISSP
+across the Benin-Niger-Nigeria tri-border zone surged by 86%, while fatalities
+in the same period jumped by 262%. Nigeria's Sokoto, Kebbi, Niger, and Kwara
+states accounted for the bulk of this escalation.
+
+Between June and November 2025, JNIM publicly claimed a series of attacks in
+Basso, Wara, Nuku, and Karunji along the Benin-Nigeria border, the group's
+first confirmed operations inside Nigerian territory.
+
+Operating under the locally used designation "Lakurawa", a Hausa adaptation
+of the French term for recruits, ISSP has established support zones in
+Sokoto and Kebbi states, with at least 1,000 fighters reported and active
+operations including ambushes, civilian killings, cattle rustling, pipeline
+fuel theft, and the imposition of taxation and shari'a enforcement in
+communities across five districts in Sokoto State.
+
+The severity of the threat was confirmed when the United States, in
+coordination with the Nigerian government, conducted Tomahawk missile strikes
+against ISSP encampments in Sokoto State on 25 December 2025, killing an
+estimated 155–200 militants, the most significant direct U.S. military action
+inside Nigeria in the country's history.
+
+Nigeria-Specific Implication: This is no longer a spillover risk on the
+horizon — it is an active, ongoing threat. ISSP's Lakurawa network functions
+as a potential bridge between Sahelian jihadist groups and ISWAP's Lake Chad
+theatre. A link-up between the two would create a contiguous jihadist belt
+across Nigeria's north, stretching from Sokoto in the northwest to Borno in
+the northeast.
+
 ## Outlook
 ## Sources
 UN Security Council, Situation in Mali: Report of the Secretary-General,
