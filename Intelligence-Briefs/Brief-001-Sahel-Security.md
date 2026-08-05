@@ -94,14 +94,13 @@ regional integration, marking the end of a decade-long diplomatic effort to hold
 Sahel within the framework of collective regional governance.
 
 ## Key Risks
+### IMMEDIATE RISKS
 
 The AES withdrawal from ECOWAS in January 2025 formalized a critical rupture in West African regional governance. By 
 rejecting Western security frameworks and external pressure, the three states created a vacuum in the Sahel at a moment 
 when jihadist groups were consolidating control. This realignment has fragmented counterterrorism capacity, degraded 
 intelligence sharing and removed the most capable external surveillance and strike assets from the region. The security 
 environment that follows is characterized by operational gaps and an emboldened jihadist threat.
-
-## IMMEDIATE RISKS
 
 ### Jihadist Corridor Expansion into Nigeria's Border Zone
 
