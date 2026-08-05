@@ -223,7 +223,7 @@ building through coastal states.
 The combined weakening of the MNJTF, the withdrawal of
 Western counterterrorism infrastructure from the central Sahel, and the
 resultant intelligence gap along Nigeria's northeastern border have created
-conditions for a sustained ISWAP resurgence in the Lake Chad Basin — directly
+conditions for a sustained ISWAP resurgence in the Lake Chad Basin, directly
 threatening Nigerian military positions and civilian populations in Borno and
 Yobe states.
 
@@ -250,10 +250,6 @@ and the northwest against Lakurawa and banditry. A sustained ISWAP surge
 in the Lake Chad basin stretches already committed Nigerian forces and
 increases the probability of a coordinated jihadist operation that exploits
 simultaneous pressure on both fronts.
-
-As regional institutions collapse and external powers fill the vacuum, West Africa's unity fractures along geopolitical 
-lines. The AES-ECOWAS divide hardens into something more durable — competing blocs backed by opposing great powers, each 
-pursuing their own strategic interests. The following risks represent the institutionalization of that division.
 
 ### SPILLOVER / LONG-TERM RISKS
 
