@@ -101,7 +101,7 @@ when jihadist groups were consolidating control. This realignment has fragmented
 intelligence sharing and removed the most capable external surveillance and strike assets from the region. The security 
 environment that follows is characterized by operational gaps and an emboldened jihadist threat.
 
-## IMMEDIATE RISKS (0–6 months)
+## IMMEDIATE RISKS
 
 ### Jihadist Corridor Expansion into Nigeria's Border Zone
 
@@ -134,11 +134,203 @@ estimated 155–200 militants, the most significant direct U.S. military action
 inside Nigeria in the country's history.
 
 Nigeria-Specific Implication: This is no longer a spillover risk on the
-horizon — it is an active, ongoing threat. ISSP's Lakurawa network functions
+horizon, it is an active, ongoing threat. ISSP's Lakurawa network functions
 as a potential bridge between Sahelian jihadist groups and ISWAP's Lake Chad
 theatre. A link-up between the two would create a contiguous jihadist belt
 across Nigeria's north, stretching from Sokoto in the northwest to Borno in
 the northeast.
+
+### Collapse of the MNJTF and Intelligence Architecture
+
+Niger's formal withdrawal from the Multinational Joint
+Task Force (MNJTF) in March 2025 has dismantled the primary multilateral
+counterterrorism mechanism protecting Nigeria's northeastern flank, creating
+an intelligence vacuum that ISWAP and Boko Haram (JAS) are already
+exploiting.
+
+The MNJTF, reactivated in 2015 to combat jihadist groups in
+the Lake Chad Basin, had achieved measurable operational gains against ISWAP
+by 2024. Niger's withdrawal on 29 March 2025, announced on state television,
+ended Nigerien troop contributions to the force and removed Sector 4, the
+northeastern flank of the task force's operational area from MNJTF coverage.
+
+The Nigeria-Niger border stretches over 1,600 kilometers of largely porous,
+ungoverned terrain. Niger's exit eliminated joint patrols, disrupted
+intelligence sharing, and removed the cross-border surveillance that had
+previously disrupted jihadist supply lines along this corridor.
+
+Relations between Nigeria and Niger had already deteriorated following
+Nigeria's support for ECOWAS sanctions and the threat of military intervention
+in 2023. Although a bilateral military cooperation agreement was briefly
+announced in August 2024, relations deteriorated again when Niger accused
+Nigeria of harboring foreign troops an allegation Nigeria denied while
+Nigeria accused Niger of backing attacks on the Benin pipeline.
+
+The institutional damage extends beyond Niger. Chad has expressed doubts about
+its continued commitment to the MNJTF, and ISWAP mounted a significant
+comeback in 2025 marked by intensified attacks, increased reliance on
+improvised explosive devices, and further displacement in Borno and Yobe
+states in the period following the weakening of coordinated MNJTF operations.
+
+Nigeria-Specific Implication: Nigeria is now carrying the counterterrorism
+burden in the Lake Chad Basin without its most strategically important
+bilateral partner. The intelligence gap on the northeastern flank is not a
+future risk, it is a current operational deficit with no near-term diplomatic
+remedy in sight.
+
+## MEDIUM-TERM RISKS 
+
+As jihadist networks consolidate in the intelligence vacuum and military governments entrench in the Sahel, secondary 
+effects ripple outward. ECOWAS's eroded authority enables coup contagion toward coastal states, while the Lake Chad basin 
+becomes increasingly vulnerable to ISWAP resurgence. The following risks threaten to extend the arc of instability beyond the Sahel's margin.
+
+### Coup Contagion Spreads to Coastal West Africa
+
+ECOWAS's demonstrated inability to reverse or deter the
+Sahel coups have eroded the bloc's authority as a guarantor of democratic
+governance, creating conditions for military intervention to spread beyond
+the Sahel into coastal West African states, including states that border
+Nigeria.
+
+The pattern is already in motion. A military coup succeeded in
+Guinea-Bissau in November 2025, following its presidential election.
+On 7 December 2025, a coup attempt was launched in Benin a direct neighbor
+of Nigeria and was only thwarted when loyalist forces, with air support and
+troops from fellow ECOWAS member states, moved to suppress it.
+
+Since 2020, the African continent has recorded approximately 14 coup attempts
+and nine successful ones, with West Africa accounting for the majority earning
+the region the designation "coup belt" in academic and policy literature.
+Between 2020 and 2026, the coups in Mali, Guinea, Burkina Faso, Niger,
+Guinea-Bissau, and the attempts in Benin and others represent a systemic
+rather than isolated pattern.
+
+ECOWAS's own commissioner for political affairs acknowledged concern about
+"contagion" following the Niger coup in 2023. That concern has since proven
+prescient. The bloc's inconsistent responses suspending some states,
+tolerating constitutional manipulation in others such as Togo and Côte
+d'Ivoire have undermined the credibility of its democratic governance norm
+enforcement.
+
+Nigeria-Specific Implication: Benin shares a long, porous border with
+Nigeria's southwest. A successful coup in Benin or political instability
+in any coastal neighbor would extend the arc of governance collapse
+toward Nigeria's most economically productive region, and complicate the
+"over-the-horizon" counterterrorism posture that Western partners are
+building through coastal states.
+
+### Lake Chad Basin Deterioration as ISWAP Exploits the Security Vacuum
+
+The combined weakening of the MNJTF, the withdrawal of
+Western counterterrorism infrastructure from the central Sahel, and the
+resultant intelligence gap along Nigeria's northeastern border have created
+conditions for a sustained ISWAP resurgence in the Lake Chad Basin — directly
+threatening Nigerian military positions and civilian populations in Borno and
+Yobe states.
+
+ISWAP mounted a significant comeback in 2025 following the
+degradation of MNJTF operational capacity. This resurgence was marked by
+intensified engagements, increased use of improvised explosive devices, and
+further civilian displacement in the northeast.
+
+Niger's exit from the MNJTF exposed the northeastern border, over 1,600km
+of largely unmonitored terrain through which ISWAP elements move between the
+Lake Chad area and deeper Sahelian positions. ISWAP's broader organizational
+structure now benefits from a reduced intelligence collection posture by
+Western partners, who have shifted to "over-the-horizon" monitoring after the
+Agadez drone facility closure.
+
+WANEP's National Early Warning System recorded over 673-armed attacks across
+Mali, Burkina Faso and Niger between January and August 2024. A level
+of Sahelian violence that, as historical patterns show, does not remain
+contained within its origin theatre.
+
+Nigeria-Specific Implication: Nigeria's military is already managing a
+two-front threat environment, the northeast against ISWAP and Boko Haram,
+and the northwest against Lakurawa and banditry. A sustained ISWAP surge
+in the Lake Chad basin stretches already committed Nigerian forces and
+increases the probability of a coordinated jihadist operation that exploits
+simultaneous pressure on both fronts.
+
+As regional institutions collapse and external powers fill the vacuum, West Africa's unity fractures along geopolitical 
+lines. The AES-ECOWAS divide hardens into something more durable — competing blocs backed by opposing great powers, each 
+pursuing their own strategic interests. The following risks represent the institutionalization of that division.
+
+## SPILLOVER / LONG-TERM RISKS
+
+Beyond the immediate security threats and regional institutional collapse lies a deeper structural realignment. The 
+fracturing of West African unity along geopolitical lines creates conditions for sustained great power competition that 
+undermines regional problem-solving capacity. As opposing blocs harden around competing external patrons, the possibility 
+of coordinated responses to jihadist networks, governance crises, and humanitarian emergencies diminishes. The risks below 
+represent the long-term consolidation of division across West Africa.
+
+### West Africa Bifurcates into Opposing Geopolitical Blocs
+
+The structural alignment of AES states with Russia, and
+the corresponding repositioning of Western security partnerships toward
+coastal ECOWAS states, is producing a durable geopolitical fault line across
+West Africa, one that makes coordinated counterterrorism impossible and
+draws the region into great power competition it has neither sought nor
+can afford.
+
+ISS Africa has explicitly identified the core dynamic: the
+alignment of AES states with Russia, at a time when Western countries are
+repositioning toward coastal states, brings two blocs backed by opposing
+great powers into direct proximity. ISS Africa has warned that ECOWAS must
+not allow itself to be used as an instrument of Western containment policy
+against Russian influence.
+
+AES states have welcomed Africa Corps the successor organization to the
+Wagner Group, as their primary external security partner. Russian military
+hardware, intelligence assets, and political support have become structural
+features of AES governance. Meanwhile, the EU has redirected security
+assistance away from AES states toward coastal partners, and the United States
+is pursuing an "over-the-horizon" approach anchored in Côte d'Ivoire, Ghana,
+and Benin.
+
+The AES has also imposed a 0.5% import duty on goods from ECOWAS nations
+including Nigeria, signaling that the economic decoupling is deliberate and
+institutionally entrenched, not a temporary political standoff.
+
+African Security Analysis has assessed the long-term trajectory as
+"Institutional bifurcation between pro-sovereignty and pro-democracy blocs,
+risking a new fault line solidifying across West Africa."
+
+Nigeria-Specific Implication: Nigeria sits at the intersection of both
+blocs — geographically bordering AES states, institutionally anchored in
+ECOWAS, and strategically dependent on Western security partnerships. A
+hardening of the bloc divide forces Nigeria into a binary alignment choice
+it has historically avoided through strategic ambiguity. It also directly
+affects Nigeria's $10 billion trade relationship with the Sahel and complicates
+joint counterterrorism operations that require cross-bloc cooperation.
+
+### Great Power Competition Instrumentalises Sahel Instability
+
+Competing external actors such as Russia, China, the United
+States, the European Union, and Gulf states are increasingly treating the
+Sahel as a theatre of strategic competition, with access to the region's
+critical mineral resources serving as a structural incentive to sustain
+rather than resolve instability.
+
+The Sahel sits on significant deposits of uranium, gold,
+lithium, and manganese. Niger is among the world's top uranium producers.
+Mali holds substantial gold reserves. The resource dimension has introduced
+a set of external actors whose strategic interests do not align with
+conflict resolution. Russia's Africa Corps presence in AES states provides
+Moscow with access to resource extraction agreements alongside its security role.
+
+The fracturing of West Africa into AES and ECOWAS blocs has forced all
+external powers, the EU, US, Russia, China, Gulf states, Turkey, and India
+to reconfigure their regional engagement strategies simultaneously. A
+divided West Africa is, for competing external powers, a region of
+opportunity rather than a problem to be solved.
+
+Nigeria-Specific Implication: Nigeria's own resource profile as the
+largest oil producer in Africa makes it a target of the same external
+competition. If great power competition entrenches instability as a
+structural feature of the Sahel, Nigeria faces a sustained degraded
+security environment on its northern borders that no bilateral relationship
+with any single external power can fully compensate for.
 
 ## Outlook
 ## Sources
