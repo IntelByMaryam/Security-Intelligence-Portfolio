@@ -1,2 +1,2 @@
 # Intelligence Breifs
-This folder contains short intelligence assessments and security briefs.
+This folder contains intelligence assessments and security briefs.
