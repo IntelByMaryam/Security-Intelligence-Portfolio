@@ -177,7 +177,7 @@ bilateral partner. The intelligence gap on the northeastern flank is not a
 future risk, it is a current operational deficit with no near-term diplomatic
 remedy in sight.
 
-## MEDIUM-TERM RISKS 
+### MEDIUM-TERM RISKS 
 
 As jihadist networks consolidate in the intelligence vacuum and military governments entrench in the Sahel, secondary 
 effects ripple outward. ECOWAS's eroded authority enables coup contagion toward coastal states, while the Lake Chad basin 
@@ -255,7 +255,7 @@ As regional institutions collapse and external powers fill the vacuum, West Afri
 lines. The AES-ECOWAS divide hardens into something more durable — competing blocs backed by opposing great powers, each 
 pursuing their own strategic interests. The following risks represent the institutionalization of that division.
 
-## SPILLOVER / LONG-TERM RISKS
+### SPILLOVER / LONG-TERM RISKS
 
 Beyond the immediate security threats and regional institutional collapse lies a deeper structural realignment. The 
 fracturing of West African unity along geopolitical lines creates conditions for sustained great power competition that 
