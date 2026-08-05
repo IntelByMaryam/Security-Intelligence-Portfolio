@@ -114,8 +114,7 @@ Between 2024 and 2025, violent attacks linked to JNIM and ISSP
 across the Benin-Niger-Nigeria tri-border zone surged by 86%, while fatalities
 in the same period jumped by 262%. Nigeria's Sokoto, Kebbi, Niger, and Kwara
 states accounted for the bulk of this escalation.
-
-Between June and November 2025, JNIM publicly claimed a series of attacks in
+And between June and November 2025, JNIM publicly claimed a series of attacks in
 Basso, Wara, Nuku, and Karunji along the Benin-Nigeria border, the group's
 first confirmed operations inside Nigerian territory.
 
@@ -157,7 +156,6 @@ The Nigeria-Niger border stretches over 1,600 kilometers of largely porous,
 ungoverned terrain. Niger's exit eliminated joint patrols, disrupted
 intelligence sharing, and removed the cross-border surveillance that had
 previously disrupted jihadist supply lines along this corridor.
-
 Relations between Nigeria and Niger had already deteriorated following
 Nigeria's support for ECOWAS sanctions and the threat of military intervention
 in 2023. Although a bilateral military cooperation agreement was briefly
@@ -237,10 +235,8 @@ of largely unmonitored terrain through which ISWAP elements move between the
 Lake Chad area and deeper Sahelian positions. ISWAP's broader organizational
 structure now benefits from a reduced intelligence collection posture by
 Western partners, who have shifted to "over-the-horizon" monitoring after the
-Agadez drone facility closure.
-
-WANEP's National Early Warning System recorded over 673-armed attacks across
-Mali, Burkina Faso and Niger between January and August 2024. A level
+Agadez drone facility closure. WANEP's National Early Warning System recorded 
+over 673-armed attacks across Mali, Burkina Faso and Niger between January and August 2024. A level
 of Sahelian violence that, as historical patterns show, does not remain
 contained within its origin theatre.
 
